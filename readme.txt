@@ -15,7 +15,7 @@ Show Woocommerce Custom Attributes in Wordpress Menu Page
 == Description ==
 Attributes (which can be used for the layered nav) are a custom taxonomy, meaning you can display them in menus, or display products by attributes.
 
-=Create a template=
+<h4> Create a template </h4>
 You will need to theme your attribute to make it display products how you want. To do this:
 
 * Copy `woocommerce/templates/taxonomy-product_cat.php` into your theme folder
