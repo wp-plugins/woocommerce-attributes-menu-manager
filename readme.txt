@@ -6,7 +6,7 @@ Tags: Woocommerce,wc,menu,taxonomy,menu manager,attribute,attribute menu, wc att
 Donate link: http://varunsridharan.in
 Requires at least: 3.0
 Tested up to: 4.1.1
-Stable tag: 0.3
+Stable tag: 0.4
 WC requires at least: 2.3.2
 WC tested up to: 2.3.7
 License: GPLv2 or later
