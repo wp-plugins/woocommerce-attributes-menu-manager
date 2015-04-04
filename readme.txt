@@ -3,7 +3,7 @@ Contributors: varunms
 Author URI: http://varunsridharan.in/
 Plugin URL: https://wordpress.org/plugins/woocommerce-attributes-menu-manager/
 Tags: Woocommerce,wc,menu,taxonomy,menu manager,attribute,attribute menu, wc attribute menu, affiliate, cart, checkout, commerce, configurable, digital, download, downloadable, e-commerce, ecommerce, inventory, reports, sales, sell, shipping, shop, shopping, stock, store, tax, variable, widgets, woothemes, wordpress ecommerce
-Donate link: http://varunsridharan.in
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=75TP8MABWJNSG
 Requires at least: 3.0
 Tested up to: 4.1.1
 Stable tag: 0.4
@@ -11,7 +11,6 @@ WC requires at least: 2.3.2
 WC tested up to: 2.3.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html 
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=75TP8MABWJNSG
 
 Show Woocommerce Custom Attributes in Wordpress Menu Page
 
@@ -32,17 +31,18 @@ Thats all there is to it. You will now see this template when viewing taxonomy t
 `Products ==> Attributes Menu Manager`
  
 == Screenshots ==
-1. Plugin Menu
-2. Plugin Settings Page
-3. WP Menu Page
+1. Plugin Settings Menu
+2. Settings Page
+3. WooCommerce New Attribute Form [Dont Forget To Check Enable Archives] 
+4. WordPress Admin Menu Page
 
 == Installation ==
 = Minimum Requirements =
 
-* WordPress 3.8 or greater
+* WordPress version 3.8 or greater
 * PHP version 5.2.4 or greater
 * MySQL version 5.0 or greater
-
+* WooCommerce version 2.3.2 or greater
 = Automatic installation =
 
 Automatic installation is the easiest option as WordPress handles the file transfers itself and you don't need to leave your web browser. To do an automatic install of WooCommerce Attributes Menu Manager, log in to your WordPress dashboard, navigate to the Plugins menu and click Add New.
